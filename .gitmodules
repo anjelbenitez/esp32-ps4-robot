@@ -1,3 +1,6 @@
 [submodule "tools/esp-idf"]
 	path = tools/esp-idf
 	url = git@github.com:espressif/esp-idf.git
+[submodule "components/PS4-esp32"]
+    path = components/PS4-esp32
+    url = git@github.com:anjelbenitez/PS4-esp32.git
