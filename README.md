@@ -11,8 +11,8 @@ Basic steering controls have been implemented using the left and right analog st
 accommodate other features, such as lighting control, pan/tilt control, turret control, etc. In reality, the PS4 controller's buttons and joysticks can be mapped to various commands, which should only be limited by your hardware.
 
 ## Features:
-**Bluetooth Connectivity:** Bluetooth connection between the ESP32 and PS4 
-controller eliminates the need for physical wires and allows for freedom of movement.
+**Bluetooth Connectivity:** A bluetooth connection between the ESP32 and PS4 
+controller is an easy way to wirelessly control the robot without requiring extra hardware.
 
 **PS4 Controller Integration:** The PS4 controller is widely available and can be 
 paired with an ESP32 by overriding the controller's bluetooth MAC address. You can use existing tools like the Sixaxis
